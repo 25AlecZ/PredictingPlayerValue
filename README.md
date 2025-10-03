@@ -1,3 +1,5 @@
 # PredictingPlayerValue
 
 The soccer transfer market is highly volatile and influenced by factors such as player performance and injuries, accurately assessing player value is crucial for clubs. While existing machine learning models focus on performance metrics, this study emphasizes the significance of injuries in player valuation. Utilizing Extreme-Gradient Boosting (XGB) algorithms, this paper integrates player statistics and injury data spanning multiple seasons from top European leagues. Through meticulous data extraction, cleaning, and model building, the study aims to provide clubs with a comprehensive evaluation tool for player acquisitions. By considering both performance and injury history, the proposed model enhances decision-making processes, enabling clubs to mitigate financial risks and optimize player recruitment strategies. The findings contribute to advancing talent management practices in professional soccer, facilitating informed decisions in the dynamic transfer market landscape.
+
+
